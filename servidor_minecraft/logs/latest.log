@@ -589,3 +589,16 @@ java.lang.NullPointerException: null
 [05Sep2025 21:22:52.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntitySlowPart['Part'/1342, l='ServerLevel[world]', x=-1440.78, y=64.49, z=1282.45]
 [05Sep2025 21:23:26.496] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio moved too quickly! 9.302177365994567,-0.13090649971452706,-3.7870777392890886
 [05Sep2025 21:23:34.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Cover Me With Diamonds]
+[05Sep2025 21:30:17.078] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Timed out
+[05Sep2025 21:30:17.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
+[05Sep2025 21:30:27.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f1d2a6f
+[05Sep2025 21:30:27.034] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tangamandapio[/127.249.202.99:57551] logged in with entity id 11463 at (-1565.7649961341988, 73.0, 716.5550433321235)
+[05Sep2025 21:30:27.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio joined the game
+[05Sep2025 21:30:27.052] [Server thread/INFO] [Waila/]: Syncing config to tangamandapio (cc036c8c-f22c-36b5-8c0a-ca3ee4029704)
+[05Sep2025 21:31:18.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Splintering II]
+[05Sep2025 21:31:34.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Who is Cutting Onions?]
+[05Sep2025 21:33:20.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[05Sep2025 21:33:36.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Cockatrice
+[05Sep2025 21:33:40.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [We Need to Go Deeper]
+[05Sep2025 21:33:42.096] [Worker-Main-2/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ed856a86-79f9-47c3-9b41-cc1f71beb1f4
+[05Sep2025 21:37:51.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> -220 75 371
