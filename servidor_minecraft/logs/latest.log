@@ -581,3 +581,11 @@ java.lang.NullPointerException: null
 [05Sep2025 21:15:25.223] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
 [05Sep2025 21:15:25.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
 [05Sep2025 21:15:25.283] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Sep2025 21:19:06.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@32fdbac
+[05Sep2025 21:19:06.438] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:54737] logged in with entity id 4283 at (-321.93172830241116, 70.0, 203.80262928127613)
+[05Sep2025 21:19:06.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[05Sep2025 21:19:06.457] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[05Sep2025 21:22:52.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntitySlowPart['Part'/1341, l='ServerLevel[world]', x=-1440.29, y=64.49, z=1282.76]
+[05Sep2025 21:22:52.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntitySlowPart['Part'/1342, l='ServerLevel[world]', x=-1440.78, y=64.49, z=1282.45]
+[05Sep2025 21:23:26.496] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio moved too quickly! 9.302177365994567,-0.13090649971452706,-3.7870777392890886
+[05Sep2025 21:23:34.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Cover Me With Diamonds]
