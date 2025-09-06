@@ -674,3 +674,23 @@ java.lang.NullPointerException: null
 [06Sep2025 03:03:58.253] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
 [06Sep2025 03:04:28.377] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
 [06Sep2025 03:04:28.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 03:04:33.030] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16209184
+[06Sep2025 03:04:33.038] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:46963] logged in with entity id 32130 at (-789.3301951975066, 69.0, 1029.9750489689127)
+[06Sep2025 03:04:33.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 03:04:33.059] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 03:05:06.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [What a Deal!]
+[06Sep2025 03:05:44.528] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 was kicked for floating too long!
+[06Sep2025 03:05:44.579] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Flying is not enabled on this server
+[06Sep2025 03:05:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 03:06:11.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2bc3ecc4
+[06Sep2025 03:06:11.531] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:42265] logged in with entity id 33304 at (-751.3721757521784, 70.24918707874468, 974.5420726245409)
+[06Sep2025 03:06:11.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 03:06:11.545] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 03:07:01.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[06Sep2025 03:07:06.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ghost
+[06Sep2025 03:08:42.190] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/34599, l='ServerLevel[world]', x=-3363.96, y=29.00, z=4091.86]
+[06Sep2025 03:08:42.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/34601, l='ServerLevel[world]', x=-3368.53, y=29.47, z=4093.67]
+[06Sep2025 03:08:42.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Quartz Bricks'/34602, l='ServerLevel[world]', x=-3367.63, y=31.58, z=4096.40]
+[06Sep2025 03:08:43.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chiseled Polished Blackstone'/34624, l='ServerLevel[world]', x=-3366.59, y=28.45, z=4100.62]
+[06Sep2025 03:09:06.278] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Disconnected
+[06Sep2025 03:09:06.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game

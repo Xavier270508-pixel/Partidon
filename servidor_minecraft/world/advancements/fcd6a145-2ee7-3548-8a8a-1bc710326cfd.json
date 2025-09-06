@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-06 03:07:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
@@ -885,6 +891,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-06 03:07:39 +0000"
     },
     "done": true
   },
@@ -2668,6 +2680,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-06 03:05:06 +0000"
     },
     "done": true
   },
