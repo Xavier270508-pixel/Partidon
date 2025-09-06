@@ -755,3 +755,5 @@ java.lang.NullPointerException: null
 [06Sep2025 03:32:24.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Ghost Riders In The Sky]
 [06Sep2025 03:33:30.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/39826, l='ServerLevel[world]', x=-3663.43, y=217.68, z=3996.27]
 [06Sep2025 03:33:30.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/39827, l='ServerLevel[world]', x=-3662.72, y=215.73, z=3996.46]
+[06Sep2025 03:35:22.773] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
+[06Sep2025 03:35:22.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
