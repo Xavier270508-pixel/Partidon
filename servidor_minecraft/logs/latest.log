@@ -626,3 +626,34 @@ java.lang.NullPointerException: null
 [06Sep2025 02:43:03.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
 [06Sep2025 02:43:28.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Cockatrice
 [06Sep2025 02:43:35.886] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2390, y=54, z=4647} BlockPos{x=-2390, y=53, z=4647}
+[06Sep2025 02:45:20.830] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2534, y=47, z=4673} BlockPos{x=-2534, y=46, z=4674}
+[06Sep2025 02:46:42.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> Chamo dormii
+[06Sep2025 02:47:41.007] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 02:47:41.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 02:48:17.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8627ee5
+[06Sep2025 02:48:17.332] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:41701] logged in with entity id 17671 at (-797.5, 69.0, 1037.5)
+[06Sep2025 02:48:17.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 02:48:17.354] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 02:48:37.721] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17688, l='ServerLevel[world]', x=-791.18, y=70.56, z=1021.70] died, message: 'Villager was slain by Zombie'
+[06Sep2025 02:48:47.452] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 02:48:47.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 02:48:57.235] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/18832, l='ServerLevel[world]', x=-2857.93, y=68.20, z=3982.46] died, message: 'Villager was slain by Cyclops'
+[06Sep2025 02:49:01.473] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/18907, l='ServerLevel[world]', x=-2861.91, y=72.20, z=3983.99] died, message: 'Villager was slain by Cyclops'
+[06Sep2025 02:49:07.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41916846
+[06Sep2025 02:49:07.487] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:32869] logged in with entity id 19799 at (-797.5, 69.0, 1037.5)
+[06Sep2025 02:49:07.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 02:49:07.508] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 02:49:24.527] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/18973, l='ServerLevel[world]', x=-2887.70, y=63.00, z=3932.70] died, message: 'Villager was slain by Zombie'
+[06Sep2025 02:49:24.573] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/19814, l='ServerLevel[world]', x=-801.70, y=70.00, z=994.30] died, message: 'Villager was slain by Zombie Villager'
+[06Sep2025 02:50:06.622] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/19847, l='ServerLevel[world]', x=-788.93, y=70.56, z=991.70] died, message: 'Villager was slain by Zombie Villager'
+[06Sep2025 02:50:57.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> XDDDD
+[06Sep2025 02:51:06.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> erpa testear el internet
+[06Sep2025 02:53:26.377] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3553, y=54, z=4064} but found not block entity block Block{minecraft:andesite} at location
+[06Sep2025 02:53:26.377] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-3553, y=54, z=4064}
+[06Sep2025 02:53:38.125] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 02:53:38.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 02:53:38.826] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@683b918a[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.31.69.146:60963) lost connection: Disconnected
+[06Sep2025 02:53:42.225] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b91e7b5
+[06Sep2025 02:53:42.232] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:60893] logged in with entity id 23765 at (-797.357891142997, 69.0, 1037.365779812586)
+[06Sep2025 02:53:42.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 02:53:42.253] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)

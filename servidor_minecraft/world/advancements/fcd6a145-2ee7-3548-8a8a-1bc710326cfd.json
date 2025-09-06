@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-06 02:49:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -1158,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-06 02:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-08-30 19:24:07 +0000"
@@ -1221,6 +1233,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-08-30 19:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-06 02:49:29 +0000"
     },
     "done": true
   },
@@ -1484,6 +1502,7 @@
       "minecraft:taiga": "2025-09-05 19:15:28 +0000",
       "minecraft:deep_cold_ocean": "2025-09-05 20:13:20 +0000",
       "minecraft:taiga_hills": "2025-09-05 19:16:33 +0000",
+      "minecraft:savanna_plateau": "2025-09-06 02:45:35 +0000",
       "minecraft:beach": "2025-09-05 19:17:15 +0000",
       "minecraft:river": "2025-08-31 02:05:02 +0000",
       "minecraft:wooded_mountains": "2025-09-05 19:39:17 +0000",
@@ -2634,6 +2653,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-05 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-09-06 02:45:29 +0000"
     },
     "done": true
   },
