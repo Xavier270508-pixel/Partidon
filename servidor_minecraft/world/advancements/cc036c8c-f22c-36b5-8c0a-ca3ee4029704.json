@@ -3769,6 +3769,12 @@
     },
     "done": true
   },
+  "relics:obtain/holy_locket": {
+    "criteria": {
+      "obtain_relic": "2025-09-06 02:30:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_large": {
     "criteria": {
       "has_diamond": "2025-08-31 02:15:39 +0000"

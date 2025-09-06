@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-06 02:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-05 21:36:55 +0000"
@@ -2808,6 +2814,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-09-01 04:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-09-06 02:37:07 +0000"
     },
     "done": true
   },

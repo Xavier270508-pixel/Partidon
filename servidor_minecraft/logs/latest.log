@@ -590,3 +590,39 @@ java.lang.NullPointerException: null
 [06Sep2025 02:30:46.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [06Sep2025 02:30:46.475] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
 [06Sep2025 02:30:52.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Did you see that? Saw that?!]
+[06Sep2025 02:33:17.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[06Sep2025 02:33:31.860] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 02:33:31.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 02:33:31.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Zombie
+[06Sep2025 02:34:04.970] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4849, l='ServerLevel[world]', x=-1723.28, y=67.00, z=4971.61] died, message: 'Villager was slain by Myrmex Worker'
+[06Sep2025 02:34:24.067] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4711, l='ServerLevel[world]', x=-1722.49, y=67.00, z=4981.70] died, message: 'Villager was slain by Myrmex Worker'
+[06Sep2025 02:35:39.831] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1940b8d1
+[06Sep2025 02:35:39.840] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:49115] logged in with entity id 6259 at (-442.88816059969366, 64.6906999805212, 1034.6877843060474)
+[06Sep2025 02:35:39.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 02:35:39.860] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 02:35:42.076] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[06Sep2025 02:35:57.837] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 1.9560215998940294,0.12129684053920187,9.86719751026044
+[06Sep2025 02:43:03.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[06Sep2025 02:43:28.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Cockatrice
+[06Sep2025 02:43:35.886] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2390, y=54, z=4647} BlockPos{x=-2390, y=53, z=4647}
