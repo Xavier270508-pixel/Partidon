@@ -752,3 +752,6 @@ java.lang.NullPointerException: null
 [06Sep2025 03:15:59.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/36296, l='ServerLevel[world]', x=-3437.52, y=27.34, z=4023.33]
 [06Sep2025 03:15:59.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/36302, l='ServerLevel[world]', x=-3443.56, y=26.33, z=4023.64]
 [06Sep2025 03:15:59.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/36303, l='ServerLevel[world]', x=-3444.42, y=24.55, z=4021.47]
+[06Sep2025 03:32:24.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Ghost Riders In The Sky]
+[06Sep2025 03:33:30.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/39826, l='ServerLevel[world]', x=-3663.43, y=217.68, z=3996.27]
+[06Sep2025 03:33:30.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/39827, l='ServerLevel[world]', x=-3662.72, y=215.73, z=3996.46]
