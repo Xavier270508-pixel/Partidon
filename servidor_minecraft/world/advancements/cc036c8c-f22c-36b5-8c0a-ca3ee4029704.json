@@ -882,6 +882,8 @@
       "minecraft:vindicator": "2025-09-06 01:00:36 +0000",
       "minecraft:spider": "2025-09-01 02:52:37 +0000",
       "minecraft:creeper": "2025-09-01 04:27:54 +0000",
+      "minecraft:phantom": "2025-09-06 02:56:26 +0000",
+      "minecraft:wither_skeleton": "2025-09-06 03:02:30 +0000",
       "minecraft:husk": "2025-09-05 19:38:12 +0000",
       "minecraft:cave_spider": "2025-08-31 01:33:24 +0000",
       "minecraft:enderman": "2025-09-01 03:53:12 +0000",
@@ -4216,6 +4218,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-09-05 19:57:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-09-06 03:00:52 +0000"
     },
     "done": true
   },

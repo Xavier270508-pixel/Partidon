@@ -657,3 +657,20 @@ java.lang.NullPointerException: null
 [06Sep2025 02:53:42.232] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:60893] logged in with entity id 23765 at (-797.357891142997, 69.0, 1037.365779812586)
 [06Sep2025 02:53:42.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [06Sep2025 02:53:42.253] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 02:59:17.196] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3409, y=64, z=3896} BlockPos{x=-3409, y=63, z=3895}
+[06Sep2025 02:59:39.857] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3522, y=53, z=4084} but found not block entity block Block{minecraft:stone} at location
+[06Sep2025 02:59:39.858] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3522, y=53, z=4084}
+[06Sep2025 03:03:18.527] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:18.528] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:18.582] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:18.583] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:18.637] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:18.637] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Sep2025 03:03:43.328] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 03:03:43.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[06Sep2025 03:03:58.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a9bb7f1
+[06Sep2025 03:03:58.236] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:55783] logged in with entity id 31308 at (-789.3301951975066, 69.0, 1029.9750489689127)
+[06Sep2025 03:03:58.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[06Sep2025 03:03:58.253] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[06Sep2025 03:04:28.377] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[06Sep2025 03:04:28.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
